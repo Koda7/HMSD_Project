@@ -1,0 +1,13 @@
+Month,Storage at the start,Storage at the end,Inflows,Evapotranspiration
+Januray,50,60,132.31,12.25
+February,60,70,182.36,15.12
+March,70,90,418.15,16.45
+April,90,140,6202.34,3452.45
+May,2000,2500,43768.63,35678.22
+June,200,400,40688.49,32456.7
+July,500,1000,20334.45,12457.23
+August,200,1000,13428.24,6345.89
+September,100,500,5608.98,3123.22
+October,200,500,2171.51,1022.34
+November,100,200,608.36,15.13
+December,50,100,363.97,14.45
